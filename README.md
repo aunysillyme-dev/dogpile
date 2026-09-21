@@ -49,3 +49,11 @@ Built live in 30 minutes.
 headless Chrome using the same component CSS as the app. If the palette moves,
 rerun it **and change the filename** - Twitter, Slack and Discord cache previews
 by URL, so overwriting the image in place stays invisible for days.
+
+## Built for Camp AI
+
+Made in a 30-minute live build window for **[Camp AI](https://campai.space)**, Season 2, Episode 3, theme "Group Thrashing".
+
+Camp AI is run by Cortex Research Group: a theme drops, everyone builds against the clock, then everyone rates everyone. It is the reason this exists, and the 30 minutes is the point.
+
+Shout out to Mansa for running it: [@NFTmansa](https://x.com/NFTmansa) on X, [NFTcolumn](https://github.com/NFTcolumn) on GitHub. The platform itself is open source under MIT: [cortexresearch/camp-ai-platform](https://github.com/cortexresearch/camp-ai-platform).
