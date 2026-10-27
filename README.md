@@ -1,5 +1,7 @@
 # Dogpile
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/aunysillyme-dev/dogpile/badge)](https://scorecard.dev/viewer/?uri=github.com/aunysillyme-dev/dogpile)
+
 Group red-teaming that stops the pile-on.
 
 🏆 **Winner, Cortex Research Group Season 2 Episode 3 - Group Thrashing.** 4.4 / 105 pts.
